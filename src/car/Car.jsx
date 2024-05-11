@@ -1,8 +1,5 @@
 import React from 'react'
 import './Car.css'
-import fath1 from "../img/car-img1.svg"
-import fath2 from "../img/car-img2.svg"
-import fath3 from "../img/car-img3.svg"
 import rightIcon from '../img/Right2.svg'
 import { carData } from './data'
 
