@@ -1,0 +1,88 @@
+.navbar-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+
+.navbar-center ul {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.navbar-center ul li a,
+.navbar-center ul li a::after {
+    transition: all .3s ease;
+}
+
+.navbar-center ul li a:hover {
+    color: rgb(54, 155, 58);
+    position: relative;
+    font-weight: 400;
+}
+
+.navbar-center ul li a::after {
+    content: "";
+    width: 0%;
+    height: 2px;
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    background-color: rgb(76, 175, 79);
+}
+
+.navbar-center ul li a:hover::after {
+    left: 0;
+    width: 100%;
+}
+
+.navbar-btn {
+    color: rgb(76, 175, 79);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+    border-radius: 6px;
+    background: none;
+    border: 1px solid transparent;
+    padding: 5px 20px;
+}
+
+.navbar-btn:hover {
+    color: #fff;
+    background-color: rgb(76, 175, 79);
+    border-color: rgb(76, 175, 79);
+}
+
+
+
+
+
+
+.navbar-btn-2 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+    background: rgb(76, 175, 79);
+    border: none;
+    margin-left: 20px;
+    border-radius: 6px;
+    background: rgb(76, 175, 79);
+    padding: 5px 10px;
+    position: relative;
+    border: 1px solid transparent;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+
+}
+
+.navbar-btn-2:hover {
+    background-color: transparent;
+    color: rgb(76, 175, 79);
+}

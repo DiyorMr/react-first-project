@@ -1,0 +1,91 @@
+.new {
+    margin-top: 80px;
+}
+
+.new-title {
+    color: rgb(77, 77, 77);
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.new-text {
+    color: rgb(113, 113, 113);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 628px;
+    margin: 0 auto;
+    padding-top: 8px;
+
+}
+
+.cars-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cars {
+    margin-top: 16px;
+    position: relative;
+}
+
+.cars-fath {
+    border-radius: 8px;
+    box-shadow: 0px 8px 16px 0px rgba(171, 190, 209, 0.4);
+    background: rgb(245, 247, 250);
+    width: 317px;
+    height: 176px;
+    border-radius: 8px;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    position: absolute;
+    bottom: -55px;
+    left: 22px;
+}
+
+.cars-title {
+    color: rgb(113, 113, 113);
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+.cars-text {
+    color: rgb(76, 175, 79);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.cars-text:hover img {
+    animation-name: rightAnim;
+    animation-duration: 0.8s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes rightAnim {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(15px);
+    }
+}
+
+

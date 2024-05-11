@@ -1,0 +1,26 @@
+export const menuData=[
+    {
+        name:'Home',
+        link:'#home'
+    },
+    {
+        name:'Service',
+        link:'#service'
+    },
+    {
+        name:'Feature',
+        link:'#feature'
+    },
+    {
+        name:'Product',
+        link:'#product'
+    },
+    {
+        name:'Testimonial',
+        link:'#testimonial'
+    },
+    {
+        name:'FAQ',
+        link:'#faq'
+    },
+]

@@ -1,0 +1,90 @@
+.footer-logo {
+    display: flex;
+    gap: 13px;
+    padding-top: 40px;
+}
+
+.footer-title {
+    color: #fff;
+}
+.nex-img{
+    padding-bottom: 40px;
+    cursor: pointer;
+}
+.footer-address {
+    color: rgb(245, 247, 250);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 42px 0 0;
+}
+.footer-name {
+    color: rgb(245, 247, 250);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 8px 0 47px;
+}
+
+.footer-col {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+
+.footer2-title {
+    margin: 5px 0 25px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.title-li {
+    color: rgb(245, 247, 250);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.text-up {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 80px;
+}
+
+.text-up-btn {
+    margin-bottom: 50px;
+    border-radius: 8px;
+    /* opacity: 0.2; */
+    background: rgb(180, 200, 200);
+    width: 255px;
+    color: black;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-left: 10px;
+    outline: none;
+
+}

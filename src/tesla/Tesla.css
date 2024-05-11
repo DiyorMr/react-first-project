@@ -1,0 +1,77 @@
+.tesla {
+    display: flex;
+    margin-top: 48px;
+    padding: 48px 0;
+    gap: 78px;
+}
+
+.tesla-text {
+    color: rgb(113, 113, 113);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.tesla-name {
+    color: rgb(76, 175, 79);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 16px 0 8px;
+}
+
+.tesla-title {
+    color: rgb(137, 147, 158);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.tesla-footer {
+    display: flex;
+    align-items: center;
+    margin-top: 32px;
+
+
+}
+
+.tesla-col {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+
+.tesla-all {
+    color: rgb(76, 175, 79);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.tesla-all:hover img {
+    animation-name: rightAnim;
+    animation-duration: 0.8s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes rightAnim {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(15px);
+    }
+}
