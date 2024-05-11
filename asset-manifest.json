@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-first-project/static/css/main.72cce536.css",
+    "main.js": "/react-first-project/static/js/main.d5d7dd4e.js",
+    "static/media/Illustration.svg": "/react-first-project/static/media/Illustration.a97d52bed82f4ddd7c4150a62239f227.svg",
+    "static/media/car-img1.svg": "/react-first-project/static/media/car-img1.ec43a7a4d2f7f7af371efa62f0094f4d.svg",
+    "static/media/car-img2.svg": "/react-first-project/static/media/car-img2.c4a10a00e22f960c81ed2d1b22fddfd6.svg",
+    "static/media/car-img3.svg": "/react-first-project/static/media/car-img3.2bfdf0d0025ed1974812a1aab8e914ad.svg",
+    "static/media/art-img2.svg": "/react-first-project/static/media/art-img2.690a1ee28ca6b44cc1c41f02d63213e5.svg",
+    "static/media/art-img.svg": "/react-first-project/static/media/art-img.a77d74bed0966a044e12de83597483f2.svg",
+    "static/media/our-img4.svg": "/react-first-project/static/media/our-img4.263fe9f190615a3bb4fb0e4c96b2b194.svg",
+    "static/media/tesla.svg": "/react-first-project/static/media/tesla.3784d17db358c6ac6d8dc6c0b06afeff.svg",
+    "static/media/apps.svg": "/react-first-project/static/media/apps.0037af624b009dd8f4500bf050af584a.svg",
+    "static/media/manage-icon3.svg": "/react-first-project/static/media/manage-icon3.7561a80bd58dc5a1a6697f66ef897b08.svg",
+    "static/media/Logo.svg": "/react-first-project/static/media/Logo.639cbc32a2424dd3750a14f81b2b1743.svg",
+    "static/media/our-img3.svg": "/react-first-project/static/media/our-img3.708b49c1941e2cd80d15af759e101e0f.svg",
+    "static/media/our-img7.svg": "/react-first-project/static/media/our-img7.f321389f085be5c540ce5da79517f9d8.svg",
+    "static/media/manage-icon2.svg": "/react-first-project/static/media/manage-icon2.6575fbb41d812099f9359050c419c6d6.svg",
+    "static/media/local-img.svg": "/react-first-project/static/media/local-img.98e65b43e5475a0dbabb2d5c7b3383fc.svg",
+    "static/media/manage-icon1.svg": "/react-first-project/static/media/manage-icon1.fcb2466628571f7331883823b4874f86.svg",
+    "static/media/our-img5.svg": "/react-first-project/static/media/our-img5.d77ab6893a02ce6a6b8b4e1f65e1c5b8.svg",
+    "static/media/local-img2.svg": "/react-first-project/static/media/local-img2.8708d95fbff9d5113fe44e2674cfdaaf.svg",
+    "static/media/our-img6.svg": "/react-first-project/static/media/our-img6.e4439ec387a05d9d1e024f1eb2e71be9.svg",
+    "static/media/local-img3.svg": "/react-first-project/static/media/local-img3.7cf54d7b031c56dce1ebe8c6119be0b6.svg",
+    "static/media/our-img1.svg": "/react-first-project/static/media/our-img1.ee647e567fd46460630aecce751ef639.svg",
+    "static/media/local-img4.svg": "/react-first-project/static/media/local-img4.ea48ddacb997bc4879eb709e97098b73.svg",
+    "static/media/our-img2.svg": "/react-first-project/static/media/our-img2.d3087bba65b056636c2acccf16da1f0a.svg",
+    "static/media/romb.svg": "/react-first-project/static/media/romb.a2a872c4a77ac9ebc1203dc5a9d13f20.svg",
+    "index.html": "/react-first-project/index.html",
+    "static/media/Right.svg": "/react-first-project/static/media/Right.3e16c6c622f17449684222d9efca9c19.svg",
+    "static/media/Right2.svg": "/react-first-project/static/media/Right2.fc89ebefa7100108a01f7ecfc79bd622.svg",
+    "main.72cce536.css.map": "/react-first-project/static/css/main.72cce536.css.map",
+    "main.d5d7dd4e.js.map": "/react-first-project/static/js/main.d5d7dd4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72cce536.css",
+    "static/js/main.d5d7dd4e.js"
+  ]
+}
