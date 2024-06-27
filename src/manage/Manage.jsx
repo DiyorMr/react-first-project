@@ -3,7 +3,6 @@ import './Manage.css'
 import { manageData } from './data'
 
 export default function Manage() {
-  console.log(manageData);
   return (
     <div className="section">
       <div className="container">
